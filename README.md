@@ -23,5 +23,5 @@ This repository contains Python models for circadian and alertness estimation. A
   * Plots: `/plots`
 
 ### Parameter Files
-`parameters`: frozen parameters of sampling model
-`standard`: standard parameters from mathematical model
+* `parameters`: frozen parameters of sampling model
+* `standard`: standard parameters from mathematical model
